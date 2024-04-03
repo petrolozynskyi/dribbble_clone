@@ -11,13 +11,13 @@ export default function Header() {
                                 <a className='pidor relative lox' href="https://dribbble.com/hiring">Find designers</a>
                                 <ul className='before w-[247px] overflow-visible flex flex-col nowrap hover-target bg-white rounded-xl p-[25px] top-[75px] absolute h-[152px] bg-inherit rounded'>
                                     <li className="">
-                                        <a className='bg-white flex flex-col text-[15px]' href="/about">Designer Search
+                                        <a className='bg-white flex flex-col text-[15px]' href="https://dribbble.com/about">Designer Search
                                             <span className="text-[12px] text-[#3d3d4e] min-w-[200px]">Quickly find your next design</span>
                                         </a>
                                     </li>
 
                                     <li>
-                                        <a className='bg-white rounded-b-xl text-[#3d3d4e] mt-[18px] text-[15px] flex flex-col' href="/contact">Post a job
+                                        <a className='bg-white rounded-b-xl text-[#3d3d4e] mt-[18px] text-[15px] flex flex-col' href="https://dribbble.com/contact">Post a job
                                             <span className="text-[12px] min-w-[200px] text-[#3d3d4e]">The #1 job board for design talent</span>
                                         </a>
                                     </li>
@@ -28,22 +28,22 @@ export default function Header() {
                                 <a className='pidor' href="https://dribbble.com/about">Inspiration</a>
                             </li>
                             <li className="group hover-trigger">
-                                <a className='pidor noob relative lox pt-[25px] flex' href="/contact">Courses</a>
+                                <a className='pidor noob relative lox pt-[25px] flex' href="https://dribbble.com/courses">Courses</a>
                                 {/* before hover-target flex w-[297px] bg-white p-[32px] rounded-xl group top-[75px] absolute h-[232px] text-black bg-inherit rounded text-sm */}
                                 <ul className="before hover-target flex flex-col w-[297px] bg-white p-[32px] rounded-xl group top-[75px] absolute h-[232px] text-black bg-inherit rounded text-sm ">
                                     <li className="nav-v2-sub__item">
-                                        <a className="bg-white flex flex-col text-[15px]" data-nav-event-clicked="UX Diploma" href="/ux-diploma">
+                                        <a className="bg-white flex flex-col text-[15px]" data-nav-event-clicked="UX Diploma" href="https://dribbble.com/ux-diploma">
                                             UX Diploma
                                             <span className="text-[12px] min-w-[300px] text-[#3d3d4e]">Learn UX design from scratch in 6 months</span>
                                         </a>              </li>
                                     <li className="nav-v2-sub__item">
-                                        <a className="bg-white rounded-b-xl text-[#3d3d4e] mt-[18px] text-[15px] flex flex-col" data-nav-event-clicked="UI Certificate" href="/ui-certificate">
+                                        <a className="bg-white rounded-b-xl text-[#3d3d4e] mt-[18px] text-[15px] flex flex-col" data-nav-event-clicked="UI Certificate" href="https://dribbble.com/ui-certificate">
                                             UI Certificate
                                             <span className="text-[12px] min-w-[200px] text-[#3d3d4e]">12-week UI skill building for designers</span>
                                         </a>              </li>
                                     <li className="nav-v2-sub__divider"></li>
                                     <li className="nav-v2-sub__item">
-                                        <a className="bg-white rounded-b-xl text-[#3d3d4e] mt-[18px] text-[15px] flex flex-col" data-nav-event-clicked="Workshops" href="/workshops">
+                                        <a className="bg-white rounded-b-xl text-[#3d3d4e] mt-[18px] text-[15px] flex flex-col" data-nav-event-clicked="Workshops" href="https://dribbble.com/workshops">
                                             Live interactive workshops
                                             <span className="text-[12px] min-w-[200px] text-[#3d3d4e]">with design professionals</span>
                                         </a>              </li>
