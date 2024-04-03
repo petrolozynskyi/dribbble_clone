@@ -1,7 +1,5 @@
-import React, { useEffect, useState } from 'react'
-import { mockshots } from '../../api/shots.api/shots.api'
-import { faker } from '@faker-js/faker';
-import { Likebtn } from '../likebtn/likebtn';
+import { useEffect, useState } from 'react';
+import { mockshots } from '../../api/shots.api/shots.api';
 import Shot from '../dot/Shot';
 
 export function Expdesigns() {

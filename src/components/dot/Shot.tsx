@@ -1,6 +1,6 @@
-import { faker } from '@faker-js/faker'
-import React, { useState } from 'react'
-import { Likebtn } from '../likebtn/likebtn'
+import { useState } from 'react';
+
+
 
 export default function Shot({ imageSrc, name, num, likes, views }) {
 

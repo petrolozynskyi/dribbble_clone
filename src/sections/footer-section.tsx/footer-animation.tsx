@@ -1,8 +1,8 @@
-import { animate, useMotionValue, motion } from "framer-motion";
-import React, { useEffect, useState } from "react";
+import { animate, motion, useMotionValue } from "framer-motion";
+import { useEffect, useState } from "react";
 import useMeasure from "react-use-measure";
-import { FooterCard } from "../../components/footer-card/footer.card";
 import { mockshots } from "../../api/shots.api/shots.api";
+import { FooterCard } from "../../components/footer-card/footer.card";
 
 export default function FooterAnimation() {
     const [dots, setDots] = useState([]);

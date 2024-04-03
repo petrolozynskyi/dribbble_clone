@@ -1,4 +1,3 @@
-import React from 'react'
 import { Colorbtn } from '../../components/colorbtn/colorbtn'
 import { HeroTrack } from '../../components/hero-track/hero-track.component'
 
