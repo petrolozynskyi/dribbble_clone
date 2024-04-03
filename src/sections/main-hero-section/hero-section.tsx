@@ -11,7 +11,7 @@ export function HeroSection() {
 
                     <div className='text-[20px] leading-[36px]'>Get inspired by the work of millions of top-rated designers & agencies around the world.</div>
 
-                    <div className='cursor-pointer text-white bg-[#0d0c22] font-bold text-sm p-4 mt-[32px] rounded-full'>Get started </div>
+                    <a href="https://dribbble.com/signup/new" className='cursor-pointer text-white bg-[#0d0c22] font-bold text-sm p-4 mt-[32px] rounded-full'>Get started </a>
                 </div>
                 <HeroTrack />
             </section>
