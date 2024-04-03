@@ -8,7 +8,7 @@ export default function Header() {
                     <nav>
                         <ul className='xyu flex row justify-center items-center'>
                             <li className="group hover-trigger ">
-                                <a className='pidor relative lox' href="/">Find designers</a>
+                                <a className='pidor relative lox' href="https://dribbble.com/hiring">Find designers</a>
                                 <ul className='before w-[247px] overflow-visible flex flex-col nowrap hover-target bg-white rounded-xl p-[25px] top-[75px] absolute h-[152px] bg-inherit rounded'>
                                     <li className="">
                                         <a className='bg-white flex flex-col text-[15px]' href="/about">Designer Search
