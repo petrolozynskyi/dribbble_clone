@@ -23,19 +23,19 @@ export const mockheroes = [
     {
         id: 4,
         name: faker.person.firstName('female'),
-        imageSrc: './images/hero-imgs/ochkastaya.png',
+        imageSrc: './images/hero-imgs/vochkah.png',
         position: ['Web', 'UI/UX', 'Illustration'],
     },
     {
         id: 5,
         name: faker.person.firstName('male'),
-        imageSrc: './images/hero-imgs/axax2.jpeg',
+        imageSrc: './images/hero-imgs/axax.jpeg',
         position: ['Web', 'UX', 'Product'],
     },
     {
         id: 6,
         name: faker.person.firstName('female'),
-        imageSrc: './images/hero-imgs/zalupka.jpeg',
+        imageSrc: './images/hero-imgs/timofey.jpeg',
         position: ['Web', 'UX', 'Leadership'],
     }, {
         id: 6,
