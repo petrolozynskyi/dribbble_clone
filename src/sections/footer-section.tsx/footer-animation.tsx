@@ -64,7 +64,7 @@ export default function FooterAnimation() {
 
     return (
         <motion.div
-            className="xyu left-0 my-[72px] absolute flex overflow-hidden gap-7"
+            className="xyu cursor-pointer left-0 my-[72px] absolute flex overflow-hidden gap-7"
             onHoverStart={() => {
                 setMustFinish(true);
                 setDuration(INFINITY_DURATION);

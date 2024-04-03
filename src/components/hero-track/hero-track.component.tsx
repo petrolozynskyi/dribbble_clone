@@ -52,7 +52,7 @@ export function HeroTrack() {
 
     return (
         <>
-            <div className="inline-flex overflow-hidden h-[484px]">
+            <div className="inline-flex overflow-hidden h-[484px] cursor-pointer ">
                 <motion.div
                     className="left-0 py-[72px] absolute flex overflow-hidden gap-7"
                     ref={ref}

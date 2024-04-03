@@ -69,8 +69,8 @@ export default function Header() {
                         </svg>
                         <input placeholder="Search...." className="cursor-pointer h-[48px] rounded-full pl-[48px] pr-[24px]"></input>
                     </form>
-                    <a href="https://dribbble.com/session/new" className="cursor:pointer">Log in</a>
-                    <a href="https://dribbble.com/signup/new" className="cursor: pointer items: center text-white bg-black rounded-full ml-4 p-[12px] justify-center">Sign up</a>
+                    <a href="https://dribbble.com/session/new" className="cursor-pointer">Log in</a>
+                    <a href="https://dribbble.com/signup/new" className="cursor-pointer items: center text-white bg-black rounded-full ml-4 p-[12px] justify-center">Sign up</a>
                 </div>
             </div>
         </>

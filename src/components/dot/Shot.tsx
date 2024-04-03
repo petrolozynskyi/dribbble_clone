@@ -23,7 +23,7 @@ export default function Shot({ imageSrc, name, num, likes, views }) {
 
 
     return (
-        <div className='flex rounded-xl  flex-col justify-center'>
+        <div className='flex rounded-xl  flex-col cursor-pointer justify-center'>
             <img className='rounded-xl justify-center' src={imageSrc} alt={name} />
             <div className='flex mt-2 items-center justify-between'>
 
