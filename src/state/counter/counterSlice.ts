@@ -1,10 +1,10 @@
 import { createSlice } from "@reduxjs/toolkit";
 
-interface XyuvrotState {
+interface axaxvrotState {
     value: number;
 }
 
-export const initialState: XyuvrotState = {
+export const initialState: axaxvrotState = {
     value: 0,
 };
 

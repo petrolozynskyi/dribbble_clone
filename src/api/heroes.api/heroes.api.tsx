@@ -29,7 +29,7 @@ export const mockheroes = [
     {
         id: 5,
         name: faker.person.firstName('male'),
-        imageSrc: './images/hero-imgs/pidor.jpeg',
+        imageSrc: './images/hero-imgs/axax2.jpeg',
         position: ['Web', 'UX', 'Product'],
     },
     {

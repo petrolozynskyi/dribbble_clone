@@ -6,9 +6,9 @@ export default function Header() {
             <div className='flex items-center justify-between px-[40px]'>
                 <div className="h-[100px] flex  items-center :hover-pointer">
                     <nav>
-                        <ul className='xyu flex row justify-center items-center'>
+                        <ul className='axax flex row justify-center items-center'>
                             <li className="group hover-trigger ">
-                                <a className='pidor relative lox' href="https://dribbble.com/hiring">Find designers</a>
+                                <a className='axax2 relative axax3' href="https://dribbble.com/hiring">Find designers</a>
                                 <ul className='before w-[247px] overflow-visible flex flex-col nowrap hover-target bg-white rounded-xl p-[25px] top-[75px] absolute h-[152px] bg-inherit rounded'>
                                     <li className="">
                                         <a className='bg-white flex flex-col text-[15px]' href="https://dribbble.com/about">Designer Search
@@ -25,10 +25,10 @@ export default function Header() {
                             </li>
 
                             <li>
-                                <a className='pidor' href="https://dribbble.com/about">Inspiration</a>
+                                <a className='axax2' href="https://dribbble.com/about">Inspiration</a>
                             </li>
                             <li className="group hover-trigger">
-                                <a className='pidor noob relative lox pt-[25px] flex' href="https://dribbble.com/courses">Courses</a>
+                                <a className='axax2 noob relative axax3 pt-[25px] flex' href="https://dribbble.com/courses">Courses</a>
                                 {/* before hover-target flex w-[297px] bg-white p-[32px] rounded-xl group top-[75px] absolute h-[232px] text-black bg-inherit rounded text-sm */}
                                 <ul className="before hover-target flex flex-col w-[297px] bg-white p-[32px] rounded-xl group top-[75px] absolute h-[232px] text-black bg-inherit rounded text-sm ">
                                     <li className="nav-v2-sub__item">
@@ -50,16 +50,16 @@ export default function Header() {
                                 </ul>
                             </li>
                             <li>
-                                <a className='pidor' href="https://dribbble.com/blog">Jobs</a>
+                                <a className='axax2' href="https://dribbble.com/blog">Jobs</a>
                             </li>
                             <li>
-                                <a className='pidor' href="https://dribbble.com/contact">Go Pro</a>
+                                <a className='axax2' href="https://dribbble.com/contact">Go Pro</a>
                             </li>
                         </ul>
                     </nav>
                 </div>
 
-                <div className='gandon'></div>
+                <div className='axax4'></div>
 
                 <div className="flex items-center">
                     <form className="flex relative pl-[48px] pr-[24px]">
