@@ -59,6 +59,7 @@ button{
   height: 27px;
   width: 96px;
   background-repeat: no-repeat;
+  cursor: pointer;
 }
 
 .xyu:hover {
