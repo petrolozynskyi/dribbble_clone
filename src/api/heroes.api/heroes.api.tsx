@@ -17,7 +17,7 @@ export const mockheroes = [
     {
         id: 3,
         name: faker.person.firstName('male'),
-        imageSrc: './images/hero-imgs/Gruev.png',
+        imageSrc: './images/hero-imgs/gruev.png',
         position: ['Web', 'UI/UX', 'design'],
     },
     {
